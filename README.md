@@ -53,7 +53,10 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
-
+## 1A EMPLOYEE TABLE
+![exp 01 output](https://github.com/varalakshmi1084/WDM_EXP1/assets/95388047/1c447ca2-0767-4339-9bee-645851e38ad4)
+## 1B	WEATHER TABLE
+![exp 01 output02](https://github.com/varalakshmi1084/WDM_EXP1/assets/95388047/59b9eefe-d55b-4bfa-bc92-0e7e8b019654)
 
 
 ### PREPROCESSING
@@ -75,6 +78,10 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+## 1C	WEATHER TABLE-PREPROCESSING
+![exp 01 output03 add](https://github.com/varalakshmi1084/WDM_EXP1/assets/95388047/bd690134-6cb0-4087-b923-a875b0ac37da)
+## 1D EMPLOYEE TABLE-PEPROCESSING
+![exp 01 output04 add](https://github.com/varalakshmi1084/WDM_EXP1/assets/95388047/6e185d3e-17a7-4322-97b4-bbd40820a22f)
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +98,10 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+## 1C	WEATHER TABLE-PREPROCESSING
+![exp 01 output03 REMOVE](https://github.com/varalakshmi1084/WDM_EXP1/assets/95388047/850bbc75-992e-41ba-86f2-c32014f033f2)
+## 1D EMPLOYEE TABLE-PEPROCESSING
+![exp 01 output04 REMOVE](https://github.com/varalakshmi1084/WDM_EXP1/assets/95388047/9faa31b6-42e0-4528-afdd-7a4356630b49)
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +118,10 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+## 1C	WEATHER TABLE-PREPROCESSING
+![exp 01 output03 normalize](https://github.com/varalakshmi1084/WDM_EXP1/assets/95388047/96f5827b-849b-42f8-9b2c-8f30a93d9f9b)
+## 1D EMPLOYEE TABLE-PEPROCESSING
+![exp 01 output04 normalize](https://github.com/varalakshmi1084/WDM_EXP1/assets/95388047/1503d577-a5f4-4c5f-90a6-cc06761dc292)
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
